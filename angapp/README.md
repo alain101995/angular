@@ -29,3 +29,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 Diferencias entre modulo y componente
 https://github.com/wearehive/project-guidelines
+https://docs.angularjs.org/api/ng/directive/ngModel
+https://blog.thoughtram.io/angular/2016/10/13/two-way-data-binding-in-angular-2.html#understanding-ngmodel

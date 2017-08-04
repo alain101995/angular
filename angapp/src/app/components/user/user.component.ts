@@ -32,7 +32,7 @@ export class UserComponent implements OnInit, OnDestroy, AfterViewInit {
       state:'MA'
     }
     this.hobbies = ['Write code', 'Watch movies', 'Listen to music'];
-    this.hello = 1; //Puede ser boolean, string, numerico gracias a any
+    this.hello = 1; //Puede ser boolean, string, numerico, etc, gracias a any
 
     this.dataService.getPosts().subscribe((posts)=>{
       //console.log(posts);

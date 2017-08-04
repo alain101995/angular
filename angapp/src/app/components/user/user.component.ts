@@ -1,6 +1,6 @@
 import { Component, OnInit, AfterViewInit, OnDestroy } from '@angular/core';
 import { DataService } from '../../services/data.service';
-@Component({
+@Component({ //Decorator
   selector: 'app-user',
   templateUrl: './user.component.html',
   styleUrls: ['./user.component.css']
@@ -19,8 +19,7 @@ export class UserComponent implements OnInit, OnDestroy, AfterViewInit {
     console.log('constructor ran...');
   }
 
-  ngOnInit() {
-    console.log('init');
+  ngOnInit() {  
     console.log('ngOnInit ran...')
 
     this.name = 'John Doe';

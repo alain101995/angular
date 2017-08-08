@@ -8,6 +8,10 @@ https://www.pluralsight.com/guides/front-end-javascript/introduction-to-test-dri
 - @Input and @Output decorators
 - Life cycles https://angular-2-training-book.rangle.io/handout/advanced-components/component_lifecycle.html
 - What's bootstrap on Angular
+- Constructor, Modules and Components
+- https://github.com/wearehive/project-guidelines
+- https://docs.angularjs.org/api/ng/directive/ngModel
+- https://blog.thoughtram.io/angular/2016/10/13/two-way-data-binding-in-angular-2.html#understanding-ngmodel
 
 # Angular Notes
 https://toddmotto.com/passing-data-angular-2-components-input
@@ -47,3 +51,7 @@ expect(add(1,1)).toEqual(2);
 expect(add(5,7)).toEqual(12);
 expect(add(-4,5)).toEqual(1);
 Note: Intentar siempre documentar el funcionamiento del testing.
+
+# Tips
+- How to write a good Git Commit Message
+https://app.pluralsight.com/library/courses/angular-2-first-look/table-of-contents

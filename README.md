@@ -2,6 +2,10 @@
 This repository aims to store Angular practices.
 https://toddmotto.com/passing-data-angular-2-components-input
 
+# Git commands 
+git ls-tree --full-tree -r HEAD
+git push -u origin "branch"
+
 # Test Driven Development
 https://app.pluralsight.com/library/courses/test-driven-development-big-picture/table-of-contents
 

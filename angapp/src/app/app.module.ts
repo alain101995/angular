@@ -14,6 +14,7 @@ const appRoutes: Routes = [
     {path:'', component:UserComponent},
     {path:'about', component:AboutComponent}
     //Todas las rutas deben ser componentes?
+    //Donde entra express?
 ];
 
 @NgModule({
